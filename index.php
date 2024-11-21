@@ -79,7 +79,7 @@ $interstellar->setAgeRestriction(16);
                 <tr>
                     <th scope="col">Title</th>
                     <th scope="col">Genere</th>
-                    <th scope="col">Trama</th>
+                    <th scope="col">Trama!</th>
                     <th scope="col">Lingua!</th>
                     <th scope="col">Durata</th>
                     <th scope="col">Età consentita</th>
